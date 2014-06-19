@@ -142,4 +142,4 @@ class Home extends CI_Controller
 
 }
 
-// location : controllers/home.php
+// simpan pada lokasi : application/controllers/home.php
