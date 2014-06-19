@@ -142,4 +142,4 @@ class Home extends CI_Controller
 
 }
 
-// location : cotrollers/home.php
+// location : controllers/home.php
