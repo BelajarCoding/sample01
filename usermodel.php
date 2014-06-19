@@ -25,3 +25,5 @@ class Usermodel extends CI_Model
         $this->db->delete('user');
     }
 }
+
+// simpan pada lokasi : application/models/usermodel.php
