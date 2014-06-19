@@ -106,6 +106,7 @@
             </div>
 
             <div class="cleared"></div>
-</div>
+
+        </div>
 
 // simpan dalam folder : application/views/form_input_user.php
