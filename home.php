@@ -3,6 +3,7 @@
 class Home extends CI_Controller
 {
 
+// 1. Fungsi Manajemen User
     public function manajemen_user()
     {
         $this->load->model('usermodel');
@@ -26,7 +27,7 @@ class Home extends CI_Controller
 
     }
 
-// Fungsi tambah user
+// 2. Fungsi tambah user
     function insert_user()
     {
         $this->load->model('usermodel');
@@ -74,7 +75,7 @@ class Home extends CI_Controller
         }
     }
 
-// Fungsi edit user
+// 3. Fungsi edit user
     function edit_user()
     {
         $this->load->model('usermodel');
@@ -120,7 +121,7 @@ class Home extends CI_Controller
         }
     }
 
-// Fungsi Hapus User
+// 4. Fungsi Hapus User
     function delete_user()
     {
         $this->load->model('usermodel');
