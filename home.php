@@ -141,3 +141,5 @@ class Home extends CI_Controller
     }
 
 }
+
+// location : cotrollers/home.php
